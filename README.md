@@ -1,6 +1,7 @@
-# oh HI ! I'm Shivang. 
+# Hey, I'm Shivang. 
 ## And 🤔?
-I am Python developer inclined towards Data Science, slowly mastering **ML/DL/LLM development**  and building awesome projects along the way.
+and I am Python developer inclined towards Data Science, 
+slowly mastering **ML/DL/LLM development**  and building awesome projects along the way.
 
 ## 🧗‍♂️ What am I currently working on 🛠?
 
