@@ -35,6 +35,8 @@ Currently working on a LLM-based app
 
 > 🏢 [Linkedin](https://www.linkedin.com/in/shivang-kainthola-2835151b9/)
 
+> 🤖 [Kaggle](https://www.kaggle.com/shivangkainthola)
+
 ---
 
 
