@@ -5,7 +5,7 @@ While I am learning and mastering **ML/DL/LLM**, I build awesome projects along 
 
 ### 🧗‍♂️ What am I currently doing 🛠?
 ---
-Currently working on a data science app
+- Currently working on a data science app
 ---
 
 ### 📰 What did I write recently :
@@ -24,7 +24,7 @@ Currently working on a data science app
 - Machine Learning / Deep Learning 
 - Natural Language Processing
 - LLM Development (LangChain)
-
+---
 ### 🆔 Check out what I am up to on :
 ---
 
