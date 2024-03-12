@@ -1,5 +1,5 @@
 # oh HI ! I'm Shivang. 
-### Python developer inclined towards Data Science, slowly mastering ML/DL/LLM dev and building awesome projects along the way.
+#### Python developer inclined towards Data Science, slowly mastering ML/DL/LLM dev and building awesome projects along the way.
 
 ### 🖥️ My skills
 ---
