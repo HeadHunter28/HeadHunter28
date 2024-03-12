@@ -43,6 +43,8 @@ While I am learning and mastering **ML/DL/LLM**, I build awesome projects along 
 
 You can find what I am doing to learn and revise as well as my notes or saved articles [here](www.youtube.com).
 
+### Reach out to me on [Gmail](mailto:shivang.kainthola64@gmail.com) !
+
 
 <!--
 **HeadHunter28/HeadHunter28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
