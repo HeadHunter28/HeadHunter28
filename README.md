@@ -39,6 +39,9 @@ Currently working on a LLM-based app
 
 ---
 
+### 🪧 Learning Resources 
+
+You can find what I am doing to learn and revise as well as my notes or saved articles here.
 
 
 <!--
