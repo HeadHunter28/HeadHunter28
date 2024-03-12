@@ -4,8 +4,9 @@ and I am Python developer in the realm of Data Science.
 While I am learning and mastering **ML/DL/LLM**, I build awesome projects along the way.
 
 ### 🧗‍♂️ What am I currently doing 🛠?
-
+---
 Currently working on a LLM-based app
+---
 
 ### 📰 What did I write recently :
 
