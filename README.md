@@ -18,7 +18,7 @@ While I am learning and mastering **ML/DL/LLM**, I build awesome projects along 
 ---
 
 ### 🖥️ Skills 
----
+
 - Python ( Data Structures and Algorithms )
 - MySQL
 - Machine Learning / Deep Learning 
@@ -26,7 +26,6 @@ While I am learning and mastering **ML/DL/LLM**, I build awesome projects along 
 - LLM Development (LangChain)
 ---
 ### 🆔 Check out what I am up to on :
----
 
 > ⌨️ [LeetCode](https://leetcode.com/JarHead28/)
 
@@ -42,7 +41,7 @@ While I am learning and mastering **ML/DL/LLM**, I build awesome projects along 
 
 ### 🪧 Learning Resources 
 
-You can find what I am doing to learn and revise as well as my notes or saved articles here.
+You can find what I am doing to learn and revise as well as my notes or saved articles [here](www.youtube.com).
 
 
 <!--
