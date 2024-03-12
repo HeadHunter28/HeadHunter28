@@ -1,17 +1,18 @@
 # Hey, I'm Shivang. 
 ## And 🤔?
-and I am Python developer in the realm of Data Science. 
-In the journey of understanding **ML/DL/LLM**  and building awesome projects along the way.
+and I am Python developer in the realm of Data Science.  
 
-## 🧗‍♂️ What am I currently working on 🛠?
+Going through the long journey of understanding and mastering **ML/DL/LLM** and building awesome projects along the way.
+
+## 🧗‍♂️ What am I currently doing 🛠?
 
 Currently working on a LLM-based app
 
-## 📰 I wrote this recently :
+## 📰 What did I write recently :
 
 -insert link -
 
-## Projects I'd like you to see :
+## ⭐ Notable Projects :
 
 ---
 
