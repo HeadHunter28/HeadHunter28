@@ -9,11 +9,11 @@ Currently working on a LLM-based app
 ---
 
 ### 📰 What did I write recently :
-
+---
 -insert link -
-
+---
 ### ⭐ Notable Projects :
-
+---
 - [DocQueryBot](https://llmdocumentquerybot-mmmqkmbxzzy2lezrcmdmhe.streamlit.app/) : A LLM-based bot that can accept any document and answer any questions about it.
 ---
 
