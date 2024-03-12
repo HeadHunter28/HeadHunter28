@@ -1,8 +1,7 @@
 # Hey, I'm Shivang. 
-## And 🤔?
 and I am Python developer in the realm of Data Science.  
 
-Going through the long journey of understanding and mastering **ML/DL/LLM** and building awesome projects along the way.
+While I am learning and mastering **ML/DL/LLM**, I build awesome projects along the way.
 
 ## 🧗‍♂️ What am I currently doing 🛠?
 
