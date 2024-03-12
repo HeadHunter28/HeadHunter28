@@ -3,20 +3,20 @@ and I am Python developer in the realm of Data Science.
 
 While I am learning and mastering **ML/DL/LLM**, I build awesome projects along the way.
 
-## 🧗‍♂️ What am I currently doing 🛠?
+### 🧗‍♂️ What am I currently doing 🛠?
 
 Currently working on a LLM-based app
 
-## 📰 What did I write recently :
+### 📰 What did I write recently :
 
 -insert link -
 
-## ⭐ Notable Projects :
+### ⭐ Notable Projects :
 
 - [DocQueryBot](https://llmdocumentquerybot-mmmqkmbxzzy2lezrcmdmhe.streamlit.app/) : A LLM-based bot that can accept any document and answer any questions about it.
 ---
 
-## 🖥️ Skills 
+### 🖥️ Skills 
 ---
 - Python ( Data Structures and Algorithms )
 - MySQL
