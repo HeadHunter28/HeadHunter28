@@ -1,4 +1,9 @@
-### Hi there 👋
+# oh HI ! I'm Shivang. 
+### I am Python developer, learning ML/DL/LLM dev and building awesome projects.
+
+### 🖥️ My skills
+---
+- Python 
 
 <!--
 **HeadHunter28/HeadHunter28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
