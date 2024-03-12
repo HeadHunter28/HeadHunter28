@@ -1,6 +1,6 @@
 # oh HI ! I'm Shivang. 
 ## And ?
-> I am Python developer inclined towards Data Science, slowly mastering ML/DL/LLM dev and building awesome projects along the way.
+> I am Python developer inclined towards Data Science, slowly ==mastering ML/DL/LLM dev== and building awesome projects along the way.
 
 ## What am I currently working on ?
 
@@ -9,10 +9,10 @@ Currently working on a LLM-based app
 
 ### 🖥️ Skills 
 ---
-Python                                       MySQL                   
+<p> - Python                                      - MySQL          </p>         
 ---
 
-### 🆔 Profiles
+### 🆔 Check out what I do on :
 
 > ⌨️ [LeetCode](https://leetcode.com/JarHead28/)
 
