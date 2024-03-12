@@ -1,7 +1,7 @@
 # Hey, I'm Shivang. 
 ## And 🤔?
-and I am Python developer inclined towards Data Science, 
-slowly mastering **ML/DL/LLM development**  and building awesome projects along the way.
+and I am Python developer in the realm of Data Science. 
+In the journey of understanding **ML/DL/LLM**  and building awesome projects along the way.
 
 ## 🧗‍♂️ What am I currently working on 🛠?
 
@@ -10,6 +10,10 @@ Currently working on a LLM-based app
 ## 📰 I wrote this recently :
 
 -insert link -
+
+## Projects I'd like you to see :
+
+---
 
 ## 🖥️ Skills 
 ---
@@ -20,6 +24,7 @@ Currently working on a LLM-based app
 - LLM Development (LangChain)
 
 ### 🆔 Check out what I am up to on :
+---
 
 > ⌨️ [LeetCode](https://leetcode.com/JarHead28/)
 
@@ -28,6 +33,8 @@ Currently working on a LLM-based app
 > 📰 [Medium](https://medium.com/@shivangkainthola28)
 
 > 🏢 [Linkedin](https://www.linkedin.com/in/shivang-kainthola-2835151b9/)
+
+---
 
 
 
