@@ -1,10 +1,14 @@
 # oh HI ! I'm Shivang. 
-### I am Python developer, learning ML/DL/LLM dev and building awesome projects.
+### Python developer inclined towards Data Science, slowly mastering ML/DL/LLM dev and building awesome projects along the way.
 
 ### 🖥️ My skills
 ---
-- Python 
-
+-  Data Structures and Algorithms
+-  Python 
+- MySQL
+- Machine Learning / Deep Learning
+- LLM Development (LangChain)
+- Natural Language Processing
 <!--
 **HeadHunter28/HeadHunter28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
