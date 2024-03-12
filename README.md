@@ -2,27 +2,23 @@
 ## And ?
 > I am Python developer inclined towards Data Science, slowly mastering ML/DL/LLM dev and building awesome projects along the way.
 
+## What am I currently working on ?
 
+Currently working on a LLM-based app
 
 
 ### 🖥️ Skills 
 ---
--  Data Structures and Algorithms
--  Python 
--  MySQL
--  Google Cloud AutoML
--  Machine Learning / Deep Learning
--  LLM Development (LangChain)
--  Natural Language Processing
+Python                                       MySQL                   
 ---
 
 ### 🆔 Profiles
 
-⌨️ [LeetCode](https://leetcode.com/JarHead28/)
+> ⌨️ [LeetCode](https://leetcode.com/JarHead28/)
 
-⌨️ [GeeksForGeeks](https://auth.geeksforgeeks.org/user/shivangkainthola64)
+> ⌨️ [GeeksForGeeks](https://auth.geeksforgeeks.org/user/shivangkainthola64)
 
-📰 [Medium](https://medium.com/@shivangkainthola28)
+> 📰 [Medium](https://medium.com/@shivangkainthola28)
 
 <!--
 **HeadHunter28/HeadHunter28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
