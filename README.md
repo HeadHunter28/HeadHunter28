@@ -3,16 +3,19 @@ and I am Python developer in the realm of Data Science.
 
 Learning and mastering **ML/DL/LLM**, I build awesome projects along the way.
 
-### 🧗‍♂️ What am I currently doing 🛠?
+### 🧗‍♂️ What am I currently up to 🛠?
 ---
 - Currently working on a data science app
+
+- Completed a data analytics project on a dataset of the UFC.
+
 ---
 
 ### 📰 What did I write recently :
 ---
--insert link -
+https://shivangkainthola28.medium.com/machine-learning-elastic-net-regression-b8fbfb2c1bfe
 ---
-### ⭐ Notable Projects :
+### ⭐ Notable Projects : (updating this list*)
 ---
 - [DocQueryBot](https://llmdocumentquerybot-mmmqkmbxzzy2lezrcmdmhe.streamlit.app/) : A LLM-based bot that can accept any document and answer any questions about it.
 ---
@@ -39,7 +42,7 @@ Learning and mastering **ML/DL/LLM**, I build awesome projects along the way.
 
 ---
 
-### 🪧 Learning Resources 
+### 🪧 Learning Resources (updating this repository)
 
 You can find what I am doing to learn and revise as well as my notes or saved articles [here](www.youtube.com).
 
