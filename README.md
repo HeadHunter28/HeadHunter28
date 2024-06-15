@@ -22,29 +22,27 @@ https://shivangkainthola28.medium.com/machine-learning-elastic-net-regression-b8
 
 ### 🖥️ Skills 
 
-- Python ( Data Structures and Algorithms )
-- MySQL
+- Python (Data Structures and Algorithms)
+- MySQL / MongoDB
+- Microsoft Azure (AI-900 Certified)
+- Apache Cassandra / IBM Cloudant
 - Machine Learning / Deep Learning 
 - Natural Language Processing
-- LLM Development (LangChain)
----
+- LLM Development (incl. LangChain)
+  
 ### 🆔 Check out what I am up to on :
 
-> ⌨️ [LeetCode](https://leetcode.com/JarHead28/)
-
-> ⌨️ [GeeksForGeeks](https://auth.geeksforgeeks.org/user/shivangkainthola64)
 
 > 📰 [Medium](https://medium.com/@shivangkainthola28)
 
 > 🏢 [Linkedin](https://www.linkedin.com/in/shivang-kainthola-2835151b9/)
 
-> 🤖 [Kaggle](https://www.kaggle.com/shivangkainthola)
 
 ---
 
-### 🪧 Learning Resources (updating this repository)
+### 🪧 Articles / Learning Resources
 
-You can find what I am doing to learn and revise as well as my notes or saved articles [here](www.youtube.com).
+You can find what I am doing to learn and revise as well as my saved articles [here](https://github.com/HeadHunter28/all_articles)
 
 ### 💬 Reach out to me on [Gmail](mailto:shivang.kainthola64@gmail.com) !
 
