@@ -10,11 +10,6 @@ Learning and mastering **ML/DL/LLM**, I build awesome projects along the way.
 - Completed a data analytics project on a dataset of the UFC.
 
 ---
-
-### 📰 What did I write recently :
----
-https://shivangkainthola28.medium.com/machine-learning-elastic-net-regression-b8fbfb2c1bfe
----
 ### ⭐ Notable Projects : (updating this list*)
 ---
 - [DocQueryBot](https://llmdocumentquerybot-mmmqkmbxzzy2lezrcmdmhe.streamlit.app/) : A LLM-based bot that can accept any document and answer any questions about it.
@@ -44,6 +39,7 @@ https://shivangkainthola28.medium.com/machine-learning-elastic-net-regression-b8
 
 You can find what I am doing to learn and revise as well as my saved articles [here](https://github.com/HeadHunter28/all_articles)
 
+---
 ### Books I've Read
 
 1. The 100 Page Machine Learning Book - Andriy Burikov 
