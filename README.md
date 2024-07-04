@@ -11,7 +11,7 @@ Learning and mastering **ML/DL/LLM**, I build awesome projects along the way.
 
 - Wrote an [article](https://github.com/HeadHunter28/all_articles/blob/e179662bee6e77849faba7a00ef8213c8d852f5c/Deep%20Learning/Building%20CNN%20with%20TensorFlow%20and%20Python.pdf) on building CNNs and transfer learning models for image classification tasks.
 ---
-### ⭐ Notable Projects* :
+### ⭐ Notable Projects* (updating):
 ---
 - [ChatPandas]* : I love Pandas, but I will jump at the first opportunity to avoid writing boilerplate-ish code for data analysis and pre-processing. This chatbot will be that opportunity.
 - [DocQueryBot](https://llmdocumentquerybot-mmmqkmbxzzy2lezrcmdmhe.streamlit.app/) : A RAG LLM-based bot that can accept any document (PDF/DOCX/CSV/XLS) and answer any of your questions about it. <u>(Deployed privately on Streamlit)</u>
