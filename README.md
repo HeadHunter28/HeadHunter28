@@ -5,14 +5,14 @@ Learning and mastering **ML/DL/LLM**, I build awesome projects along the way.
 
 ### 🧗‍♂️ What am I currently up to 🛠?
 ---
-- Currently working on a data science app
+- Finished revising the fundamental concepts of deep learning. 
 
-- Completed a data analytics project on a dataset of the UFC.
-
+- Learning fine-tuning of LLMs, for my next project.
 ---
 ### ⭐ Notable Projects* :
 ---
-- [DocQueryBot](https://llmdocumentquerybot-mmmqkmbxzzy2lezrcmdmhe.streamlit.app/) : A RAG LLM-based bot that can accept any document (PDF/DOCX/CSV/XLS) and answer any questions about it.
+- [ChatPandas]* : I love Pandas, but I will jump at the first opportunity to avoid writing boilerplate code for data analysis and pre-processing. This chatbot will be that opportunity.
+- [DocQueryBot](https://llmdocumentquerybot-mmmqkmbxzzy2lezrcmdmhe.streamlit.app/) : A RAG LLM-based bot that can accept any document (PDF/DOCX/CSV/XLS) and answer any of your questions about it.
 - [UFC Events (1993-2023) - Data Analysis](https://github.com/HeadHunter28/UFC-Events-Data-project)
 - [Cards image classification - using CNN and Transfer Learning model](https://github.com/HeadHunter28/DeepLearning/tree/main/Cards%20images%20classification)
 - 
