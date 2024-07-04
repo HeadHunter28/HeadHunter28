@@ -12,7 +12,8 @@ Learning and mastering **ML/DL/LLM**, I build awesome projects along the way.
 ### ⭐ Notable Projects* :
 ---
 - [ChatPandas]* : I love Pandas, but I will jump at the first opportunity to avoid writing boilerplate-ish code for data analysis and pre-processing. This chatbot will be that opportunity.
-- [DocQueryBot](https://llmdocumentquerybot-mmmqkmbxzzy2lezrcmdmhe.streamlit.app/) : A RAG LLM-based bot that can accept any document (PDF/DOCX/CSV/XLS) and answer any of your questions about it.
+- [DocQueryBot](https://llmdocumentquerybot-mmmqkmbxzzy2lezrcmdmhe.streamlit.app/) : A RAG LLM-based bot that can accept any document (PDF/DOCX/CSV/XLS) and answer any of your questions about it. (Deployed privately on Streamlit)
+- [Resume Analysis Assistance App](https://resumeselectionapp-a6xnjcg5osjq6xr3arzmzr.streamlit.app/) : Compare the suitability of multiple resumes against a given job description. (Deployed privately on Streamlit)
 - [UFC Events (1993-2023) - Data Analysis](https://github.com/HeadHunter28/UFC-Events-Data-project)
 - [Cards image classification - using CNN and Transfer Learning model](https://github.com/HeadHunter28/DeepLearning/tree/main/Cards%20images%20classification)
 - 
