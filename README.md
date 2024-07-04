@@ -5,9 +5,11 @@ Learning and mastering **ML/DL/LLM**, I build awesome projects along the way.
 
 ### 🧗‍♂️ What am I currently up to 🛠?
 ---
-- Finished revising the fundamental concepts of deep learning. 
+- Finished revising the fundamental concepts of deep learning.
 
 - Learning fine-tuning of LLMs, for my next project.
+
+- Wrote an [article](https://github.com/HeadHunter28/all_articles/blob/e179662bee6e77849faba7a00ef8213c8d852f5c/Deep%20Learning/Building%20CNN%20with%20TensorFlow%20and%20Python.pdf) on building CNNs and transfer learning models for image classification tasks.
 ---
 ### ⭐ Notable Projects* :
 ---
