@@ -10,10 +10,13 @@ Learning and mastering **ML/DL/LLM**, I build awesome projects along the way.
 - Completed a data analytics project on a dataset of the UFC.
 
 ---
-### ⭐ Notable Projects : (updating this list*)
+### ⭐ Notable Projects* :
 ---
-- [DocQueryBot](https://llmdocumentquerybot-mmmqkmbxzzy2lezrcmdmhe.streamlit.app/) : A LLM-based bot that can accept any document and answer any questions about it.
----
+- [DocQueryBot](https://llmdocumentquerybot-mmmqkmbxzzy2lezrcmdmhe.streamlit.app/) : A RAG LLM-based bot that can accept any document (PDF/DOCX/CSV/XLS) and answer any questions about it.
+- [UFC Events (1993-2023) - Data Analysis](https://github.com/HeadHunter28/UFC-Events-Data-project)
+- [Cards image classification - using CNN and Transfer Learning model](https://github.com/HeadHunter28/DeepLearning/tree/main/Cards%20images%20classification)
+- 
+  
 
 ### 🖥️ Skills 
 
