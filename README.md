@@ -51,13 +51,6 @@ You can find what I am doing to learn and revise as well as my saved articles [h
 
 1. The 100 Page Machine Learning Book - Andriy Burikov 
 
-2. Hands-On Machine Learning with SciKit Learn, Keras and TensorFlow - Aurélien Géron
-
-3. Probability and Statistics for Data Science - Shree Sai Publications 
-
-4. Mathematics for Machine Learning - by A. Aldo Faisal, Cheng Soon Ong, and Marc Peter Deisenroth
-
-5. Machine Learning using Python - Manaranjan Pradhan and U Dinesh Kumar
 
    
 
