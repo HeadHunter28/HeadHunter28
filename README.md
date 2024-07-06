@@ -17,6 +17,7 @@ Learning and mastering **ML/DL/LLM**, I build awesome projects along the way.
 - [DocQueryBot](https://llmdocbot.streamlit.app/) : A RAG LLM-based bot that can accept any document (PDF/DOCX/CSV/XLS) and answer any of your questions about it. Deployed on Streamlit.
 - [Resume Analysis Assistance App](https://resumeselectionapp-a6xnjcg5osjq6xr3arzmzr.streamlit.app/) : Compare the suitability of multiple resumes against a given job description. <u>(Deployed privately on Streamlit)</u>
 - [UFC Events (1993-2023) - Data Analysis](https://github.com/HeadHunter28/UFC-Events-Data-project)
+- [Military Aircrafts images classification - using transfer learning*](https://www.kaggle.com/code/shivangkainthola/military-aircrafts-efficientnetb6-57)
 - [Cards image classification - using CNN and Transfer Learning model](https://github.com/HeadHunter28/DeepLearning/tree/main/Cards%20images%20classification)
 - 
   
