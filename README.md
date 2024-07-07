@@ -47,7 +47,7 @@ Learning and mastering **ML/DL/LLM**, I build awesome projects along the way.
 You can find what I am doing to learn and revise as well as my saved articles [here](https://github.com/HeadHunter28/all_articles)
 
 ---
-### [Books / Research Articles - I am reading and recommend.]()
+### [Books / Research Articles - I am reading and recommend.](https://github.com/HeadHunter28/readings)
 
 
 ### 💬 Reach out to me on [Gmail](mailto:shivang.kainthola64@gmail.com) !
