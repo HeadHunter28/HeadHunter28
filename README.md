@@ -1,15 +1,17 @@
 # Hey, I'm Shivang. 
-and I am Python developer in the realm of Data Science.  
+and I am a data analyst and Python developer in the realm of data science and generative AI.  
 
 Learning and mastering **ML/DL/LLM**, I build awesome projects along the way.
 
 ### 🧗‍♂️ What am I currently up to 🛠?
 ---
-- Finished revising the fundamental concepts of deep learning.
 
-- Learning fine-tuning of LLMs, for my next project.
+- Working on an end to end network security system based on machine learning. Including ETL pipeline, workflows for batch prediction, MlFlow model tracking and AWS/Docker based deployment [Repo](https://github.com/HeadHunter28/network_security) - (Currently private)
+  
+- 5 Day Gen AI Intensive Course : kaggle.com/learn-guide/5-day-genai
 
-- Wrote an [article](https://github.com/HeadHunter28/all_articles/blob/e179662bee6e77849faba7a00ef8213c8d852f5c/Deep%20Learning/Building%20CNN%20with%20TensorFlow%20and%20Python.pdf) on building CNNs and transfer learning models for image classification tasks.
+- Learning to implement the working of Transformer architecture from scratch. [Notebook](https://www.kaggle.com/code/shivangkainthola/transformer-architecture-in-pytorch)
+
 ---
 ### ⭐ Notable Projects* (updating):
 ---
@@ -26,11 +28,12 @@ Learning and mastering **ML/DL/LLM**, I build awesome projects along the way.
 
 - Python (Data Structures and Algorithms)
 - MySQL / MongoDB
+- Microsoft Excel / PowerBI (PowerQuery basics) / Tableau
 - Microsoft Azure (AI-900 Certified)
 - Apache Cassandra / IBM Cloudant
 - Machine Learning / Deep Learning 
 - Natural Language Processing
-- LLM Development (incl. LangChain)
+- LLM Development (incl. LangChain/LangGraph)
   
 ### 🆔 Check out what I am up to on :
 
