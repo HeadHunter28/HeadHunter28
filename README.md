@@ -5,6 +5,7 @@ Learning and mastering **ML/DL/LLM**, I build awesome projects along the way.
 
 ### 🧗‍♂️ What am I currently up to 🛠?
 ---
+- [Data analysis on UFC fighters and events](https://github.com/HeadHunter28/UFC-2025) (upto 08/2025), updating on the previous project.
 
 - Working on an end to end network security system based on machine learning. Including ETL pipeline, workflows for batch prediction, MlFlow model tracking and AWS/Docker based deployment [Repo](https://github.com/HeadHunter28/network_security) - (Currently private)
   
